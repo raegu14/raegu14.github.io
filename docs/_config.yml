@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Rachel Gu
 tagline:          'Portfolio'
 description:      'Game Programmer'
-url:              https://raegu14.github.io/
-baseurl:          /
+url:              https://raegu14.github.io
+baseurl:          '/docs'
 
 author:
   name:           Rachel Gu
