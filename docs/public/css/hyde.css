@@ -56,7 +56,7 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
+  color: hsla(0, 0%, 0%, 0.6);
   background-color: #202020;
 }
 @media (min-width: 48em) {
@@ -72,12 +72,12 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+  color: #dfd9ff;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
+  color: #dfd9ff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
   font-size: 3.25rem;
@@ -247,4 +247,13 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/* Lavender */
+.theme-base-11 .sidebar {
+  background-color: #7559ff;
+}
+.theme-base-11 .content a,
+.theme-base-11 .related-posts li a:hover {
+  color: #9f8cff;
 }

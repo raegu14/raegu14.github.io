@@ -59,8 +59,8 @@ html {
 }
 
 body {
-  color: #515151;
-  background-color: #fff;
+  color: #ffffff;
+  background-color: #303030;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -84,7 +84,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: #9f8cff;
   text-rendering: optimizeLegibility;
 }
 h1 {
@@ -308,10 +308,10 @@ tbody tr:nth-child(odd) th {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: #9f8cff;
 }
 .masthead-title a {
-  color: #505050;
+  color: #9f8cff;
 }
 .masthead-title small {
   font-size: 75%;
@@ -337,7 +337,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #9f8cff;
 }
 .page-title,
 .post-title {
