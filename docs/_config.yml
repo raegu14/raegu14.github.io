@@ -10,7 +10,7 @@ title:            Rachel Gu
 tagline:          'Portfolio'
 description:      'Game Programmer'
 url:              https://raegu14.github.io
-baseurl:          '/docs'
+baseurl:          '/'
 
 author:
   name:           Rachel Gu
