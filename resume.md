@@ -88,8 +88,12 @@ Engineer | Unreal Engine 4 | Oculus Quest 2, PCVR
 {: style="color:DarkGray;"}
 
 - VR Horror game with a focus on being precise and stealthy vampire slayers.
-- Created a pipeline to dynamically generate 3D sigils as segmented triangular prism meshes featuring a graph data structure for connectivity and custom point and segment collision detection.
-- Implemented encounter architecture and puzzle interactions in small strike teams.
+- Created a pipeline to dynamically generate 3D sigils as segmented triangular prism meshes with a graph data structure for connectivity and custom point and segment collision detection.
+- Implemented encounter architecture and puzzle interactions with real world design affordances without breaking game physics:
+    - Physical key that must be inserted and turned inside a lock
+    - Prybar as leverage to pull nails out of the coffin
+    - Snippers to cut trap wires
+    - Grippers to maneuver objects into their sockets with "buzz wire" style gameplay
 
 <h6>
    <span>Lost Recipes</span>
@@ -112,7 +116,7 @@ Engineer | Unreal 4 | Custom Vive Focus
 - Developed a helpful and curious orb-shaped character AI using behavior trees and animation blueprints.
 
 <h6>
-   <span>Location Based Attraction</span>
+   <span>NDA Location Based Attraction</span>
    <div class="work-year">June 2019 - May 2020</div>
 </h6>
 Engineer | Unreal 4 | Location Based Entertainment
