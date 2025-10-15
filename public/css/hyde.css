@@ -36,12 +36,7 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
-  }
-}
-@media (min-width: 58em) {
-  html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -59,7 +54,7 @@ html {
   color: hsla(0, 0%, 0%, 0.6);
   background-color: #202020;
 }
-@media (min-width: 48em) {
+@media (min-width: 60em) {
   .sidebar {
     position: fixed;
     top: 0;
@@ -105,7 +100,7 @@ a.sidebar-nav-item:focus {
  * contents to the bottom of the sidebar in tablets and up.
  */
 
-@media (min-width: 48em) {
+@media (min-width: 60em) {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
@@ -126,7 +121,7 @@ a.sidebar-nav-item:focus {
   padding-bottom: 4rem;
 }
 
-@media (min-width: 48em) {
+@media (min-width: 60em) {
   .content {
     max-width: 38rem;
     margin-left: 20rem;
@@ -134,9 +129,9 @@ a.sidebar-nav-item:focus {
   }
 }
 
-@media (min-width: 64em) {
+@media (width >= 60em) {
   .content {
-    margin-left: 22rem;
+    margin-left: 33%;
     margin-right: 4rem;
   }
 }
