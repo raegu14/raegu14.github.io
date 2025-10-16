@@ -102,8 +102,8 @@ h4, h5 {
   color: #a69ece;
 }
 h6 {
-  margin-top: 1.25rem;
-  font-size: 1.125rem;
+  margin-top: 1.2rem;
+  font-size: 1.1rem;
   color: #ffffff;
 }
 
@@ -458,4 +458,5 @@ a.pagination-item:hover {
   margin-left: 80px;
   font-weight: normal;
   display: block;
+  font-size: 1rem;
 }
