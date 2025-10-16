@@ -120,8 +120,13 @@ strong {
 
 /* Lists */
 ul, ol, dl {
+  padding-left: 2rem;
   margin-top: 0;
   margin-bottom: 1rem;
+}
+
+li {
+  padding-left: .5rem;
 }
 
 dt {
